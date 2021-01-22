@@ -1,0 +1,6 @@
+Snake head direction = 1 and location = {X=282,Y=1356}
+Snake part direction = 1 and location = {X=299,Y=1356}
+Snake part direction = 1 and location = {X=316,Y=1356}
+Snake part direction = 1 and location = {X=333,Y=1356}
+Snake part direction = 1 and location = {X=350,Y=1356}
+Snake part direction = 1 and location = {X=367,Y=1356}
